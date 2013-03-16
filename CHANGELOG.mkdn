@@ -6,6 +6,22 @@ Visit http://github.com/PAC-man for full changelogs and git access.
 CHANGELOG (notable new features)
 ---------
 
+20.1.0 -> 21.0.1
+ 
+* PIE: restart launcher 
+* PIE: smaller as default 
+* PIE: disabled HW overlay for PIE
+* Nexus sounds
+* Wi-Fi display in notification bar as an option
+* Removed null string reference in Settings-Toolbar
+* Fixed System UI crash when changing recent app key
+* Lock pattern fixed
+* Camera: shutter follow device sound setting
+* Enabled Copy/Paste in Google Talk
+* Updated Battery charging animation
+* Fixed the tiles on MDPI devices
+* Removed tiny GApps from all builds
+
 ## 20.0.0 -> 20.1.0
 
 * Implemented Superuser in Settings (no SuperUser App anymore!)
