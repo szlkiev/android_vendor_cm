@@ -21,3 +21,13 @@ CHANGELOG (notable new features)
 * Switched to SuperUser from Koush
 * Fixed a memory leak
 * Implemented tiny GApps in every build
+
+## 21.0.0 -> 22.0.0
+
+* Brought Tiles inline with cm ones [Nick0703]
+* Updated PIE Controls [blindndumb]
+* Fix System UI crash when changing recent app key [bluefa1con]
+* Notification Shortcuts & WiFi display (SlimRoms) [xLaMbChOpSx]
+* Brought some things inline with cm source [bluefa1con]
+* New BottAnimation [bluefa1con] (for most devices updated)
+* Various Device Updates
