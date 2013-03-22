@@ -29,5 +29,16 @@ CHANGELOG (notable new features)
 * Fix System UI crash when changing recent app key [bluefa1con]
 * Notification Shortcuts & WiFi display (SlimRoms) [xLaMbChOpSx]
 * Brought some things inline with cm source [bluefa1con]
-* New BottAnimation [bluefa1con] (for most devices updated)
+* New BootAnimation [bluefa1con] (for most devices updated)
 * Various Device Updates
+
+## 22.0.0 -> xx.x.x
+
+* Changelog Feature [gs2usr]
+* fixed Quick Pulldown (Instant Tiles Pulldown) [gs2usr]
+* fixed back button will collapse statusbar [gs2usr]
+* Toggle to disable Fullscrean Keyboard [OldDroid]
+* Pie and Volume Toggle [OldDroid]
+* Network Tile Updates [Nick0703]
+* latest PA and some CM Umdates [OldDroid]
+* fixed FC's related to changing Navbar targets [xLaMbChOpSx]
