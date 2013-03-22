@@ -29,7 +29,7 @@ CHANGELOG (notable new features)
 * Fix System UI crash when changing recent app key [bluefa1con]
 * Notification Shortcuts & WiFi display (SlimRoms) [xLaMbChOpSx]
 * Brought some things inline with cm source [bluefa1con]
-* New BootAnimation (for most devices updated)[bluefa1con]
+* New BootAnimation (for most devices updated) [bluefa1con]
 * Various Device Updates
 
 ## 22.0.0 -> xx.x.x
