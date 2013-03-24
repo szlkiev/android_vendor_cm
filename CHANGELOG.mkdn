@@ -42,3 +42,4 @@ CHANGELOG (notable new features)
 * Network Tile Updates [Nick0703]
 * latest PA and some CM Updates [OldDroid]
 * fixed FC's related to changing Navbar targets [xLaMbChOpSx]
+* Added Option for Quicktile row Settings [gs2usr]
