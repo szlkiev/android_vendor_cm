@@ -32,7 +32,7 @@ CHANGELOG (notable new features)
 * New BootAnimation (for most devices updated) [bluefa1con]
 * Various Device Updates
 
-## 22.0.0 -> xx.x.x
+## 22.0.0 -> 22.0.1
 
 * Changelog Feature [gs2usr]
 * fixed Quick Pulldown (Instant Tiles Pulldown) [gs2usr]
@@ -43,3 +43,8 @@ CHANGELOG (notable new features)
 * latest PA and some CM Updates [OldDroid]
 * fixed FC's related to changing Navbar targets [xLaMbChOpSx]
 * Added Option for Quicktile row Settings [gs2usr]
+* Added QuietHours QuickSettings Tile [Nick0703]
+* Added Hybrid QuickSettingsTile [OldDroid]
+* Fixes on Settings & CleanUp [IvanBrazza & gs2usr]
+* Added QuickSettingsModeTile [Nick0703]
+* Updated PA sources to 3.15
