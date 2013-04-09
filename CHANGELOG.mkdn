@@ -23,6 +23,7 @@ CHANGELOG : (Notable New Features)
 - Added QuickSettingsModeTile [Nick0703]
 - Updated PA sources to 3.15
 - Choice to enable/disable CRT animation & at which orientation [kufikugel]
+- Fixed PhabletUI NavBar in landscape [gs2usr]
 
 ## 21.0.0 -> 22.0.0
 
