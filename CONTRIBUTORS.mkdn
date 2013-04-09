@@ -15,6 +15,7 @@ Framework Contributors:
 * xLaMbChOpSx
 * NukeAOSP
 * garwedgess
+* Sniper-
 
 Device Mentainers:
 ----------
@@ -25,7 +26,7 @@ Device Mentainers:
 * garwedgess (zeus)
 * Blake (primo)
 * jaydub82 (hercules)
-* Sniper- (sph-d710)
+* Sniper- (d710)
 * metaiiica (p990)
 * szl.kiev (urushi, mango)
 * OldDroid (p1000, gio, tass, cooper, p500)
