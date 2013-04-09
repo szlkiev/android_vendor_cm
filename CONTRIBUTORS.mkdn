@@ -20,7 +20,7 @@ Device Mentainers:
 ----------
 * cmartinbaughman (shooter, shooteru, shootervm)
 * Nick0703 (Captivatemtd)
-* gs2user (skyrocket)
+* gs2usr (skyrocket)
 * garak (maguro)
 * garwedgess (zeus)
 * Blake (primo)
