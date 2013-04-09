@@ -5,9 +5,6 @@ Lead Developers:
 -----------
 * szl.kiev
 * OldDroid
-
-Co-Lead Developer:
------------
 * bluefa1con
 
 Framework Contributors:
