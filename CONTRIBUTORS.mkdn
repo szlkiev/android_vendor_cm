@@ -21,7 +21,7 @@ Device Mentainers:
 * cmartinbaughman (shooter, shooteru, shootervm)
 * Nick0703 (captivatemtd, p3100, p3110, p5100, p5110)
 * gs2usr (skyrocket)
-* garak (maguro)
+* grarak (maguro, i9103)
 * garwedgess (zeus)
 * Blake (primo)
 * jaydub82 (hercules)
