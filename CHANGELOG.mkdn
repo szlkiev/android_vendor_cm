@@ -6,7 +6,7 @@ Website: WIP
 CHANGELOG : (Notable New Features)
 ----------------------------------
 
-## 22.0.0 -> 22.0.1
+## 22.0.0 -> 22.1.0
 
 - Changelog Feature [gs2usr]
 - Fixed Quick Pulldown (Instant Tiles Pulldown) [gs2usr]
@@ -22,8 +22,10 @@ CHANGELOG : (Notable New Features)
 - Fixes on Settings & CleanUp [IvanBrazza & gs2usr]
 - Added QuickSettingsModeTile [Nick0703]
 - Updated PA sources to 3.15
+- Resize text to fit on tile size adjusted [gs2usr]
 - Choice to enable/disable CRT animation & at which orientation [kufikugel]
 - Fixed PhabletUI NavBar in landscape [gs2usr]
+- Brought sources inline with CM & PA sources [bluefa1con & szlkiev]
 
 ## 21.0.0 -> 22.0.0
 
