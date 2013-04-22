@@ -37,5 +37,7 @@ Device Mentainers:
 * klin1344 (d2att, d2tmo, d2vzw)
 * shrike1978 (vigor)
 * jamieg71 (jewel, evita, d2spr)
+* Paul-L (beni)
+* tdm (P930, SU640, VS920)
 
-Total Devices: 38
+Total Devices: 43
