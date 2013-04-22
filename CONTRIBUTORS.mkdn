@@ -28,7 +28,7 @@ Device Mentainers:
 * Sniper- (d710)
 * metaiiica (p990)
 * szl.kiev (urushi, mango)
-* OldDroid (p1000, gio, tass, cooper, p500)
+* OldDroid (p1000, gio, cooper, p500)
 * n1kolaa (anzu)
 * Druboo666 (haida)
 * bluefa1con (i9100, i9100g, mako)
@@ -37,7 +37,8 @@ Device Mentainers:
 * klin1344 (d2att, d2tmo, d2vzw)
 * shrike1978 (vigor)
 * jamieg71 (jewel, evita, d2spr)
-* Paul-L (beni)
+* Paul-L (tass)
+* speedbot (beni)
 * tdm (P930, SU640, VS920)
 
-Total Devices: 43
+Total Devices: 44
