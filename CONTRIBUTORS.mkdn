@@ -40,5 +40,6 @@ Device Mentainers:
 * Paul-L (tass)
 * speedbot (beni)
 * tdm (P930, SU640, VS920)
+* iurnait (venturi_usa)
 
-Total Devices: 44
+Total Devices: 45
