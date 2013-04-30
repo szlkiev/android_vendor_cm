@@ -6,6 +6,14 @@ Website: WIP
 CHANGELOG : (Notable New Features)
 ----------------------------------
 
+//## 22.1.0 -> 22.2.0
+
+- Pac-In-Black Toggle
+- Initial LDPI Support
+- updated AOKP Sources
+- Fixed: navbar rings 90° rotate in landscape
+- ..
+
 ## 22.0.0 -> 22.1.0
 
 - Changelog Feature [gs2usr]
