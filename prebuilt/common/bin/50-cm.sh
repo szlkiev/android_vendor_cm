@@ -9,6 +9,7 @@
 
 list_files() {
 cat <<EOF
+etc/paranoid/properties.conf
 etc/hosts
 EOF
 }
