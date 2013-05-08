@@ -1,12 +1,12 @@
 PAC-man : The AIO Rom
 ==================================
 Source : http://github.com/PAC-man
-Website: WIP 
+Website: http://pac-man-rom.de/forum/ 
 ----------------------------------
 CHANGELOG : (Notable New Features)
 ----------------------------------
 
-//## 22.1.0 -> 22.x.x
+## 22.1.0 -> 22.1.1
 
 - Pac-In-Black Toggle
 - Initial LDPI Support
@@ -14,7 +14,9 @@ CHANGELOG : (Notable New Features)
 - Fixed: navbar rings 90° rotate in landscape
 - Lockscreen Theming support
 - New Battery Styles
-- ..
+- AOKP Ribbon
+- Updated/Added Translations
+- Moar minor updates
 
 ## 22.0.0 -> 22.1.0
 
