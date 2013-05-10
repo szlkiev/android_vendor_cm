@@ -15,7 +15,7 @@ CHANGELOG : (Notable New Features)
 - Lockscreen Theming support
 - New Battery Styles
 - AOKP Ribbon
-- Added missing LDPI battery icons
+- Added missing MDPI battery icons
 - Lockscreen SOD Fixed
 - Settings layout redone
 - Minimal bootanimation
