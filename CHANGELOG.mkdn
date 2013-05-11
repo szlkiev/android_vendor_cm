@@ -6,11 +6,11 @@ Website: http://pac-man-rom.de/forum/
 CHANGELOG : (Notable New Features)
 ----------------------------------
 
-## 22.1.0 -> 22.1.1
+## 22.1.0 -> 22.2.0
 
 - Pac-In-Black Toggle
 - Initial LDPI Support
-- updated AOKP Sources
+- updated AOKP Sources to Milestone1
 - Fixed: navbar rings 90° rotate in landscape
 - Lockscreen Theming support
 - New Battery Styles
