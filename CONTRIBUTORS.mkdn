@@ -40,6 +40,8 @@ Device Mentainers:
 * Blake (primo)
 * blindndumb ()
 * BLOWNCO ()
+* Blake (primo)
+* blindndumb (ace , saga, vivo)
 * bluefa1con (i9100, i9100g, mako)
 * cmartinbaughman (shooter, shooteru, shootervm)
 * Druboo666 (haida, hallon)
@@ -59,6 +61,12 @@ Device Mentainers:
 * mithun46 ()
 * Nick0703 (captivatemtd, p3100, p3110, p5100, p5110)
 * n1kolaa (anzu)
+* jamieg71 (jewel, evita)
+* jaydub82 (hercules)
+* KBizzle (sprint n7100)
+* metaiiica (p990)
+* n1kolaa (anzu)
+* Nick0703 (captivatemtd, p3100, p3110, p5100, p5110)
 * OldDroid (p1000, gio, cooper, p500)
 * Papa Smurf151 (d2spr, d2att, d2tmo, d2vzw)
 * Paul-L (tass)
@@ -72,7 +80,7 @@ Device Mentainers:
 * Wechy77 ()
 * wedgess ()
 
-Total Devices: 47
+Total Devices: 50
 
 Best regards
      szl.kiev
