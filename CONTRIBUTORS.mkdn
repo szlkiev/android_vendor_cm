@@ -12,7 +12,7 @@ Developers:
 * OldDroid
 * Papa Smurf151
 * singhdd93
-* Sniper-
+* Sniper
 * szl.kiev
 * xLaMbChOpSx
 
@@ -28,7 +28,7 @@ Forum Administrators:
 BuildBot Maintainers:
 ----------
 * basketthis
-* Sniper-
+* Sniper
 * tdm
 
 
@@ -66,7 +66,7 @@ Device Mentainers:
 * Paul-L (tass)
 * shrike1978 (vigor)
 * singhdd93 (coconut , mango , satsuma , smultron , iyokan , hallon)
-* Sniper- (d710, m7wls, m7)
+* Sniper (d710, m7wls, m7)
 * speedbot (beni)
 * szl.kiev (urushi, mango)
 * tdm (P930, SU640, VS920)

@@ -17,6 +17,7 @@ CHANGELOG : (Notable New Features)
 - Email FC Fixed[Sniper-]
 - Lockscreen shortcuts for now[Langes72]
 - CM's lockscreen slider shortcut is back[g2usr]
+- View PAC-man contributors in Settings > About phone
 
 ## 22.1.0 -> 22.2.0
 
