@@ -27,8 +27,8 @@ ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=0
 
 # Copy over the changelog to the device
 PRODUCT_COPY_FILES += \
-    vendor/cm/CHANGELOG.mkdn:system/etc/PAC-CHANGELOG.txt
-	vendor/cm/CONTRIBUTORS.mkdn:system/etc/PAC-CONTRIBUTORS.txt
+    vendor/cm/CHANGELOG.mkdn:system/etc/PAC-CHANGELOG.txt \
+    vendor/cm/CONTRIBUTORS.mkdn:system/etc/PAC-CONTRIBUTORS.txt
 
 # Backup Tool
 PRODUCT_COPY_FILES += \
