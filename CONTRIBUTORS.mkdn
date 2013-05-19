@@ -30,15 +30,15 @@ Device Mentainers:
 * szl.kiev (urushi, mango)
 * OldDroid (p1000, gio, cooper, p500)
 * n1kolaa (anzu)
-* Druboo666 (haida)
+* Druboo666 (haida, hallon)
 * bluefa1con (i9100, i9100g, mako)
-* singhdd93 (coconut, satsuma, smultron)
-* KBizzle (sprint note2)
-* klin1344 (d2att, d2tmo, d2vzw)
+* singhdd93 (coconut , mango , satsuma , smultron , iyokan , hallon)
+* KBizzle (sprint n7100)
+* Papa Smurf151 (d2spr, d2att, d2tmo, d2vzw)
 * shrike1978 (vigor)
-* jamieg71 (jewel, evita, d2spr)
+* jamieg71 (jewel, evita)
 * Paul-L (tass)
 * speedbot (beni)
 * tdm (P930, SU640, VS920)
 
-Total Devices: 44
+Total Devices: 47
