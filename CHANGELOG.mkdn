@@ -16,6 +16,7 @@ CHANGELOG : (Notable New Features)
 - Phone layouts for Tablet/Phablet UI[PA/beerbong]
 - Email FC Fixed[Sniper-]
 - Lockscreen shortcuts for now[Langes72]
+- CM's lockscreen slider shortcut is back[g2usr]
 
 ## 22.1.0 -> 22.2.0
 
